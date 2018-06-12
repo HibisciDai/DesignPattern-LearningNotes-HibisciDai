@@ -21,3 +21,5 @@ JDK：1.7
 [设计模式-02-单例模式](https://hibiscidai.github.io/2018/03/14/设计模式-02-单例模式/)
 
 [设计模式-03-工厂模式](https://hibiscidai.github.io/2018/03/21/设计模式-03-工厂模式/)
+
+[设计模式-04-抽象工厂模式](https://hibiscidai.github.io/2018/03/26/设计模式-04-抽象工厂模式/)
