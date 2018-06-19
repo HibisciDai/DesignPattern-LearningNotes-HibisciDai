@@ -31,3 +31,5 @@ JDK：1.7
 [设计模式-07-适配器模式](https://hibiscidai.github.io/2018/04/04/设计模式-07-适配器模式/)
 
 [设计模式-08-桥接模式](https://hibiscidai.github.io/2018/04/09/设计模式-08-桥接模式/)
+
+[设计模式-09-组合模式](https://hibiscidai.github.io/2018/04/16/设计模式-09-组合模式/)
