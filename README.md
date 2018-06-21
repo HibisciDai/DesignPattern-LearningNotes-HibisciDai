@@ -35,3 +35,5 @@ JDK：1.7
 [设计模式-09-组合模式](https://hibiscidai.github.io/2018/04/16/设计模式-09-组合模式/)
 
 [设计模式-10-装饰器模式](https://hibiscidai.github.io/2018/04/18/设计模式-10-装饰器模式/)
+
+[设计模式-11-外观模式](https://hibiscidai.github.io/2018/04/23/设计模式-11-外观模式/)
