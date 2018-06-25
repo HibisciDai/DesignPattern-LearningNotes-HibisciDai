@@ -39,3 +39,5 @@ JDK：1.7
 [设计模式-11-外观模式](https://hibiscidai.github.io/2018/04/23/设计模式-11-外观模式/)
 
 [设计模式-12-享元模式](https://hibiscidai.github.io/2018/04/25/设计模式-12-享元模式/)
+
+[设计模式-13-代理模式](https://hibiscidai.github.io/2018/04/28/设计模式-13-代理模式/)
