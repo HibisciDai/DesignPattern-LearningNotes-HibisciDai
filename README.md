@@ -47,3 +47,7 @@ JDK：1.7
 [设计模式-15-命令模式](https://hibiscidai.github.io/2018/05/14/设计模式-15-命令模式/)
 
 [设计模式-16-解释器模式](https://hibiscidai.github.io/2018/05/16/设计模式-16-解释器模式/)
+
+[设计模式-17-中介者模式](https://hibiscidai.github.io/2018/05/21/设计模式-17-中介者模式/)
+
+[设计模式-18-备忘录模式](https://hibiscidai.github.io/2018/05/23/设计模式-18-备忘录模式/)
