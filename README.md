@@ -51,3 +51,13 @@ JDK：1.7
 [设计模式-17-中介者模式](https://hibiscidai.github.io/2018/05/21/设计模式-17-中介者模式/)
 
 [设计模式-18-备忘录模式](https://hibiscidai.github.io/2018/05/23/设计模式-18-备忘录模式/)
+
+[设计模式-19-观察者模式](https://hibiscidai.github.io/2018/05/28/设计模式-19-观察者模式/)
+
+[设计模式-20-状态模式](https://hibiscidai.github.io/2018/05/30/设计模式-20-状态模式/)
+
+[设计模式-21-策略模式](https://hibiscidai.github.io/2018/06/06/设计模式-21-策略模式/)
+
+[设计模式-22-模板方法](https://hibiscidai.github.io/2018/06/11/设计模式-22-模板方法/)
+
+[设计模式-23-迭代器](https://hibiscidai.github.io/2018/06/13/设计模式-23-迭代器/)
